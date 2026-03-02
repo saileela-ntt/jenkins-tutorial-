@@ -29,7 +29,7 @@ This enables **Continuous Integration (CI)** and **Continuous Deployment (CD)** 
 ```
 
 
-<img width="2880" height="1162" alt="image" src="https://github.com/user-attachments/assets/9838bb58-62b5-4f2d-a5ea-47b2e1af1c7e" />
+
 
 - The Jenkins server must be accessible from the internet (public IP or ngrok).  
 - GitHub sends POST requests to this URL whenever configured events (like push or PR) occur.
@@ -41,5 +41,6 @@ This enables **Continuous Integration (CI)** and **Continuous Deployment (CD)** 
 
 **In summary:**  
 Webhooks make Jenkins *react automatically* to GitHub changes — enabling seamless automation in DevOps pipelines.
+
 
 
