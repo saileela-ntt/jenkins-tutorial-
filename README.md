@@ -149,25 +149,3 @@ jenkins-tutorial-main/
 │   ├── java_app/
 │   └── qa_automation/
 └── README.md
-```
----
-
-# 🙌 Contribute  
-If you want new examples or want to add your own Jenkinsfiles, feel free to create a PR.
-
----
-
-# ⭐ Support  
-If this repo helped you, please ⭐ star the GitHub repo & share the video!
-
----
-
-# 🔗 Follow Me  
-**LinkedIn:** https://www.linkedin.com/in/theshubhamgour  
-**Instagram:** https://instagram.com/theshubhamgour  
-**Twitter/X:** https://twitter.com/theshubhamgour  
-
----
-
-# 🔥 Let’s Master DevOps Together!  
-
