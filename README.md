@@ -1,22 +1,4 @@
-# 🚀 Ultimate Jenkins CI/CD Full Course – Zero to Pro  
-### *By Shubham Gour (@theshubhamgour)*  
 
-
----
-
-<img width="1280" height="720" alt="Black and Green Bold Trading  YouTube Thumbnail (1)" src="https://github.com/user-attachments/assets/6a617c88-0f9e-4c95-b6f7-d193c700ee65" />
-
-🎥 **YouTube Full Course (6+ Hours):** https://www.youtube.com/watch?v=qB0fR-ygQR4  
-🌐 **GitHub Repo:** [jenkins-tutorial](https://github.com/theshubhamgour/jenkins-tutorial)
-
----
-
-# 📘 About This Repository  
-This repository contains **all resources, code, pipelines, demos, notes, Jenkinsfiles, and project implementations** used in the *Jenkins Full Course in One Shot* video.
-
-If you're learning DevOps, CI/CD, or Jenkins from scratch — this repo is your **complete reference kit**.
-
----
 
 # 🔥 What This Course Covers (A–Z)  
 This course takes you from absolute beginner → production-ready Jenkins engineer.
@@ -188,3 +170,4 @@ If this repo helped you, please ⭐ star the GitHub repo & share the video!
 ---
 
 # 🔥 Let’s Master DevOps Together!  
+
