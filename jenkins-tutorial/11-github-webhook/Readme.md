@@ -12,11 +12,6 @@ In simple terms:
 When you push code to GitHub, the webhook sends an **HTTP POST request** to Jenkins with details about the event (like branch, commit, etc.).  
 Jenkins receives that payload and automatically triggers a build or deployment.
 
-<img width="2878" height="1622" alt="image" src="https://github.com/user-attachments/assets/6b6a76b4-2f9d-4402-9877-4bb13e112c8d" />
-
-
-<img width="2878" height="1628" alt="image" src="https://github.com/user-attachments/assets/16df22a9-c0f4-4d4b-9000-ae2cfd3ba393" />
-
 
 **Example:**
 When you push a commit to your Flask project’s GitHub repo, Jenkins (through the webhook URL) detects it and automatically starts the pipeline — building a Docker image, running tests, or deploying your app.
@@ -46,4 +41,5 @@ This enables **Continuous Integration (CI)** and **Continuous Deployment (CD)** 
 
 **In summary:**  
 Webhooks make Jenkins *react automatically* to GitHub changes — enabling seamless automation in DevOps pipelines.
+
 
